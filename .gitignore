@@ -1,0 +1,21 @@
+# 기본
+*.idea
+.DS_Store
+.hidden
+*.h5
+
+# datasets 폴더, images 폴더 무시
+
+.ipynb_checkpoints/
+__pycache__/
+images/
+output/
+pretrained-model/
+data/
+model_data/
+nb_images/
+out/
+yad2k/
+XY_train/
+XY_dev/
+
